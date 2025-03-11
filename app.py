@@ -11,3 +11,4 @@ option = st.selectbox('Select a movie:', movies_list)
 
 st.write('You selected:', option)
 
+
